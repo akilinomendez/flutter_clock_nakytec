@@ -36,3 +36,6 @@ All others are based on these, special mention to snowing, the code was taken fr
 ## Use
 
 The app has two options demo and normal, in normal weather changes must come from the api in this case flutter clock helper and  it works like a clock and marks the daily time and position of the moon and sun. In demo the cycle is accelerated and the weather changes are random
+
+
+![nakytec](https://github.com/akilinomendez/flutter_clock_nakytec/raw/master/nakytec.jpg)(https://nakitec.com/)
